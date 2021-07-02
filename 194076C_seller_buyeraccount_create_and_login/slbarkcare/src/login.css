@@ -1,0 +1,82 @@
+* {
+    margin: 2px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.logins{
+    background-image: url('104851505-the-girl-holds-the-dog-s-paw-in-her-hand-dog-and-girl-are-loyal-friends-the-girl-s-hand-with-a-beaut.jpg');
+    width: 100%;
+    height: 880px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logins h1{
+
+    padding-top: 100px;
+    margin-left: 500px;
+    font-family:'Permanent Marker', cursive ;
+    font-size: 60px;
+    color: #ff6666;
+    
+}
+.access{
+    opacity: 0.6;
+    margin: 5px auto;
+    width: 700px;
+    height: 350px;
+    background-color: #fff;
+    border-radius: 8px;
+  
+}
+
+.access h2 {
+    padding-top: 40px;
+    text-align:center;
+    font-family: 'EB Garamond', serif;
+    font-size: 36px;
+}
+
+.access form {
+    margin-left: 90px;
+    padding-top: 5px;
+    width: 650px;
+    height: 300px;
+}
+
+label {
+    color: #000;
+    font-weight: bold;
+    display:inline-block;
+    *display: inline;     
+    zoom:1;              
+    padding-top: 5px;
+    text-align: right;
+    width: 140px;
+}
+input {
+    
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 300px;
+    height: 30px;
+    display:inline-block;
+    *display: inline;     
+    zoom:1;             
+    vertical-align:middle;
+    margin-left:20px
+}
+.access button{
+    background-color:#000000; /* Green */
+  	border: none;
+  	color: white;
+  	width: 280px; 
+  	padding: 15px 32px;
+  	margin-left: 120px;
+    margin-top: 50px;  
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+    border-radius: 16px;  
+    vertical-align: middle;
+}
